@@ -1,4 +1,4 @@
-# Waterfall-video-installation
+# Waterfall-video
 Rendering images of a black and white waterfall going around a big rock, done in Processing
 
 
